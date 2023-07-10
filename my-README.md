@@ -22,10 +22,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 SCREENSHOT OF THE DESKTOP VERSION:
-<img src = ./images/QR-image-full.png alt= "a QR code page">
+<img src = QR-image-full.png alt= "a QR code page">
 
 SCREENSHOT OF THE MOBILE VERSION:
-<img src = ./images/QR-image-mobile.png alt= "a QR code page">
+<img src = QR-image-mobile.png alt= "a QR code page">
 
 
 ## My process
